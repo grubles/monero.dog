@@ -1,12 +1,12 @@
-## Welcome to monero.dog
+## welcome to monero.dog
 
 
-### Q: Why does this even exist?
+### Q: why does this even exist?
 
-A: Bark
+A: bark!
 
 
 ![Image](/200w_d.gif)
 
-### Support or Contact
+### support or contact
 
