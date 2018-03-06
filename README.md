@@ -8,5 +8,3 @@ A: bark!
 
 ![Image](/200w_d.gif)
 
-### support or contact
-
