@@ -1,9 +1,9 @@
-## welcome to monero.dog
+## welcome
 
 
-### Q: why does this even exist?
+### q: why does this even exist?
 
-A: bark!
+a: bark!
 
 
 ![Image](/200w_d.gif)
